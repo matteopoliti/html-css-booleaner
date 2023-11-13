@@ -79,3 +79,7 @@ td{
     padding: 5px;
     width: calc(100% / 3);
 }
+
+.back-color{
+    background-color:rgba(177, 229, 242, 1);
+}

@@ -40,7 +40,17 @@ a{
 }
 
 .tim-img{
-    width: 900px;
-    height: 600px;
-    display: inline-block;
+    height: 650px;
+}
+blockquote{
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+p{
+    font-size: 30px;
+}
+
+.yellow-mark{
+    background-color: yellow;
 }
